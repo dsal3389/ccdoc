@@ -1,4 +1,5 @@
 # ccdoc
+(code is not ready yet)
 ccdoc a simple C program that automatically generates markdown documentation for C header files, the program
 looks at `.h` files and read comments that are prefixed with `///` (like rust), then it will associate those
 comments with the first function found under them, for example 
